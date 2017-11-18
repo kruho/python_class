@@ -1,2 +1,2 @@
-# python_class
-Pythonのクラスについて勉強する
+# python
+Pythonを勉強する
